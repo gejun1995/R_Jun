@@ -1,0 +1,7 @@
+INFO [2018-12-15 21:00:17] $x
+INFO [2018-12-15 21:00:17] list(y1, y2)
+INFO [2018-12-15 21:00:17] 
+INFO [2018-12-15 21:00:17] [[2]]
+INFO [2018-12-15 21:00:17] [1] "test1.png"
+INFO [2018-12-15 21:00:17] 
+ERROR [2018-12-15 21:00:18] Unexpected parameter length for 'category'
