@@ -1,7 +1,0 @@
-INFO [2018-12-15 21:04:23] $x
-INFO [2018-12-15 21:04:23] list(y1, y2, D)
-INFO [2018-12-15 21:04:23] 
-INFO [2018-12-15 21:04:23] [[2]]
-INFO [2018-12-15 21:04:23] [1] "test1.png"
-INFO [2018-12-15 21:04:23] 
-ERROR [2018-12-15 21:04:23] Unexpected parameter length for 'category'
